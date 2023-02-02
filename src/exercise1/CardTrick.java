@@ -6,7 +6,8 @@ import java.util.Scanner;
  * A class that fills a hand of 7 cards with random Card Objects and then asks the user to pick a card.
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
- *
+ *  
+ * @author Moyu Ran Feb 01, 2023
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
  */
@@ -65,7 +66,7 @@ public class CardTrick {
      * @author Paul Bonenfant Jan 2022
      */
     private static void printInfo() {
-    
+        //I'm done!
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
@@ -73,7 +74,7 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My study ambitions:");
-        System.out.println("-- Be more diligent on coding, and stay hungry!")
+        System.out.println("-- Be more diligent on coding, and stay hungry!");
 	System.out.println();	
 
         System.out.println("My hobbies:");
